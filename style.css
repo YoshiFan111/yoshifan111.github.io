@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://i.imgur.com/aWmXiSu.png");
+    background-size: cover;
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+h3 {
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+h4
+{
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+h5 {
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+h6 {
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+p {
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+a {
+    font-family: 'Comic Sans MS';
+    color: yellow; 
+}
